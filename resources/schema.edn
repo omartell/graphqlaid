@@ -1,0 +1,6 @@
+{:enums         {}
+ :input-objects {}
+ :objects       {}
+ :mutations     {}
+ :queries       {:helloWorld {:type     String
+                              :resolve :hello-world}}}
